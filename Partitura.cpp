@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include "Partitura.h"
-#include "Nota.h"
+//#include "Nota.h"
 #include <string>
 #include <vector>
 #include <bits/stdc++.h>
