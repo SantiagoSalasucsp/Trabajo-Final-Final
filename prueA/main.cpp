@@ -5,8 +5,6 @@
 #include "Partitura.h"
 #include <windows.h>
 
-// link https://compmus.ime.usp.br/pt-br/pessoas/
-
 
 using namespace std;
 
